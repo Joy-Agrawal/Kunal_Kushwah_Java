@@ -1,0 +1,1 @@
+whenever a sorted array is given we first try to check whether the problem can be solved by binary search
